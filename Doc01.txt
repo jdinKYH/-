@@ -1,2 +1,7 @@
 깃허브 테스트 
 문서 관리
+1 단계 수정 
+2 단계 수정
+3 단계 수정 커밋 옵션에 코멘트를 입력
+git remote add origin https://github.com/jdinKYH/Document.git
+https://github.com/jdinKYH/Document.git
